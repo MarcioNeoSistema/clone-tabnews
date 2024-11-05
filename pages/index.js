@@ -1,6 +1,6 @@
 function Home() {
 
-    return <h1>Treinando commit forçado</h1>
+    return <h1>Fazendo uma nova deploy da aplicação</h1>
 }
 
 export default Home;
